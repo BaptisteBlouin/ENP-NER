@@ -3,7 +3,7 @@
 ### Specificities and important information
 
 - **Annotation guidelines:** mostly compatible with *Impresso* datasets. Will be release soon on this page.
-- **Test set:** for this dataset, the test set will be release in a second time.
+- **Test set:** for this dataset, the test annotations will be release in a second time.
 - **Format of the data:** It's a tabular separated format like this : `Ind	Tok	NER	COMP	COREF	CLINK	REL	WIKI	MCBD`
 	- Ind : Index, use for the coreference and relation
 	- Tok : Character
